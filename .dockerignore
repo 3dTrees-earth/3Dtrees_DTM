@@ -1,0 +1,9 @@
+.git
+.github
+in
+out
+test-data
+*.Rproj.user
+.Rhistory
+.RData
+.Ruserdata

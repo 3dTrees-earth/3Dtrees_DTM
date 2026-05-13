@@ -1,0 +1,6 @@
+in/
+out/
+*.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
